@@ -1,0 +1,35 @@
+.dtsb-add, .dtsb-button{
+    width: 156px;
+    height: 36px;
+    background: #D7E7FE 0% 0% no-repeat padding-box;
+    border-radius: 6px;
+    opacity: 1;
+    color: #0F71FA;
+}
+
+.dtsb-add:hover{
+    background: #2870DD66 !important;
+} 
+
+.dtsb-button:hover{
+    background: #2870DD66 !important;
+}
+
+.dtsb-dropDown{
+    background: #EBEFF2 !important;
+    border-radius: 6px !important;
+    border-color: transparent;
+    margin: 5px 0px;
+}
+
+.dtsb-data{
+    box-shadow: 0px 0px 1px red !important;
+}
+
+.dtsb-condition{
+    box-shadow: 0px 0px 1px green !important;
+}
+
+.dtsb-value{
+    box-shadow: 0px 0px 1px blue !important;
+}
